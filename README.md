@@ -1,6 +1,9 @@
+PROJECT TITLE
 # BASE-PROJECT-1-IN-PYTHON
-IN THIS PROJECT,WE WILL LEARN MANY CONCEPTS RELATED TO BASE PYTHON AND SOME ADVANCED CONCEPTS ON IT
 
+PROJECT DESCRIPTION
+
+This project helps the beginners to understand the basic concepts of python and some advanced level concepts.
 SOME OF THE CONCEPTS DISCUSSED IN THIS PROJECT ARE AS FOLLOWS
 
 1.VARIABLES-Variables are the names given to memory location.It stores Homogeneous data.
@@ -9,7 +12,7 @@ SOME OF THE CONCEPTS DISCUSSED IN THIS PROJECT ARE AS FOLLOWS
 
 3.RULES FOR NAMING IDENTIFIERS.
 
-4.DATA TYPES
+4.DATA TYPES-The type of data stored in a variable or object or class such as int,float,string,bool etc
 
 5.BASIC FUNCTIONS-input(),print(),type(),id().
 
